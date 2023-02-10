@@ -1,0 +1,86 @@
+#EXTM3U
+
+#EXTINF: -1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2t-mcjhBL0K8mN00ZjnX7earbIPjJadfhA&usqp=CAU",Zeeافلام 
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v3a1/mono.m3u8
+
+#EXTINF: -1tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg", zee الوان
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v3a1/mono.m3u8
+
+#EXTINF: -1tvg-logo="https://i.imgur.com/fMjhK06.png", ام بي سي بوللواد
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+#EXTINF: -1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rotana_Classic_New_Logo.png", روتانا كلسيك
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+
+#EXTINF: -1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Rotana_khalijia_New.png", روتانا خليجية
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+
+#EXTINF: -1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png", روتانا دراما
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+
+#EXTINF: -1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png", روتانا سينما
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+
+#EXTINF: -1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png", روتانا سينما 2
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+
+#EXTINF: -1tvg-logo="https://rotana.net/triAssets/uploads/2020/11/hd.png", روتانا +
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+
+#EXTINF: -1tvg-logo="https://weyyak.com/favicon_512.png", وياك مكس
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+
+#EXTINF: -1tvg-logo="https://weyyak.com/favicon_512.png", وياك
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+
+#EXTINF: -1tvg-logo="https://weyyak.com/favicon_512.png", مسلسلات
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+
+#EXTINF: -1tvg-logo="https://weyyak.com/favicon_512.png", افلام مدبلجة
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+
+#EXTINF: -1tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/1200px-MBC_Drama_Plus_TV_Channel_Logo.png", ام بي سي دراما
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+#EXTINF: -1tvg-logo="https://arabitec.com/wp-content/uploads/2015/12/442.jpg", مصر 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF: -1tvg-logo="https://www.tasreeba.at/uploads/images/648x316/5bbd3c5c827a81663004144.jpg", مصر
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+
+#EXTINF: -1tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png", ام بي سي مصر
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+
+#EXTINF: -1tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png", ام بي سي العراق
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+
+#EXTINF: -1tvg-logo="https://i.imgur.com/pfF61uH.png", ام بي سي 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+#EXTINF: -1tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png", ام بي سي 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+#EXTINF: -1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png", ام بي سي باريس
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+#EXTINF: -1tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png", ام بي سي FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+
+#EXTINF: -1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMSJoR_LPMocQBj-RsYloVin78QW6B2q6uQ&usqp=CAU", خليك بلج
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+
+#EXTINF: -1tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png", وناسا
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF: -1tvg-logo="https://www.al-msarat.com/wp-content/uploads/2020/05/21-150x109.jpg", روتانا FM
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+
+#EXTINF: -1tvg-logo="https://3.bp.blogspot.com/-rysHj1c0wng/WLiBQdnbjHI/AAAAAAAAEgg/GKNsK0j_x7Ym4dCy1r0QUgymt5625YWLwCLcB/s1600/screen568x568.png", Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+
+
+
+
+
+
